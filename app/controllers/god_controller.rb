@@ -4,3 +4,4 @@ class GodController < ApplicationController
     @pick = @god.sample(3)
   end
 end
+ -
